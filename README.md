@@ -48,4 +48,3 @@ Coming soon (08/23/2018)
 Henrique David de Medeiros - henriquemed101@gmail.com
 
 ##### Data Font: Twitter
-##### [Click here](https://colab.research.google.com/drive/1ijUTprgnjpukaY4iqdspp1VFeajQDUo6) open the code
