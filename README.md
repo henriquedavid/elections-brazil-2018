@@ -1,7 +1,7 @@
 
 # Analysis of Presidential Mentions 2018
 
-Portuguese version (versão em português): https://github.com/henriquedavid/elections-brazil-2018/blob/master/Men%C3%A7%C3%B5es_aos_Presidenci%C3%A1veis_2018.ipynb
+Portuguese version: [Versão em português](https://github.com/henriquedavid/elections-brazil-2018/blob/master/docs/Men%C3%A7%C3%B5es_aos_Presidenci%C3%A1veis_2018.ipynb)
 
 The elections have already begun and with them, the debates are already beginning fervently. On 08/08/2018 the first debate took place, broadcast on the BAND television channel and on YouTube.
 
