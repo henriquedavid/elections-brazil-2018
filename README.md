@@ -43,7 +43,7 @@ It is important to clarify that the mentions to the candidate of the Patriota, '
 
 ## Analysis of the 2nd Debate
 
-[Mentions until 24/08/2018](https://github.com/henriquedavid/elections-brazil-2018/blob/master/imgs/election_2018_23_08_english.png?raw=true)
+![Mentions until 24/08/2018](https://github.com/henriquedavid/elections-brazil-2018/blob/master/imgs/election_2018_23_08_english.png?raw=true)
 
 After a week after the debate, several television programs interviewing specific candidates and mainly several candidates on the rise, we see that in the chart above we have the candidate Jair Bolsonaro (PSL) again first, this time with 29689 mentions. Although the candidate was first in terms of mentions, the fact of achieving such a feat was the disagreement with his party, which advised him not to attend the debates, perhaps for his progress in the campaign and the fear of more controversial statements such as homophobia, xenophobia, machismo, among others.
 
