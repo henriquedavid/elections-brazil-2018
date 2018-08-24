@@ -42,8 +42,20 @@ The graphic largely rests on the 3 candidates above, since the other candidates 
 It is important to clarify that the mentions to the candidate of the Patriota, 'Cabo' Daciolo, don't reflect in the number of mentions supporting his candidacy since to open with a golden key the debate, the candidate proved that the Brazilians are a memes factory.
 
 ## Analysis of the 2nd Debate
-Coming soon (08/23/2018)
 
+[Mentions until 24/08/2018](https://github.com/henriquedavid/elections-brazil-2018/blob/master/imgs/election_2018_23_08_english.png?raw=true)
+
+After a week after the debate, several television programs interviewing specific candidates and mainly several candidates on the rise, we see that in the chart above we have the candidate Jair Bolsonaro (PSL) again first, this time with 29689 mentions. Although the candidate was first in terms of mentions, the fact of achieving such a feat was the disagreement with his party, which advised him not to attend the debates, perhaps for his progress in the campaign and the fear of more controversial statements such as homophobia, xenophobia, machismo, among others.
+
+The candidate Lula (PT) was up 10.7% compared to a week ago, resulting in 17122 mentions. Despite the significant increase, the candidacy of the presidential candidate is in the hands of the Superior Electoral Court (TSE). Among the news that involved the candidate is the support of the United Nations (UN) supporting the candidacy, which secured the 2nd place for the candidate.
+
+In relation to the 3rd place of the research of this week, we have a turnaround, with the candidate Guilherme Boulos (PSOL), with 3625 mentions. The candidate has not had news to impact his mentions, which may indicate a Twitter margin. The candidate Marina Silva (Network) started the week very positive, being involved in "memes" with the candidate of the PSL and with several appearances in the television programs, however the personnel of the social network does not seem to care much, since it obtained a fall to 553 mentions, with a decrease of 94.56% in mentions. This is the 7th place for the Network candidate.
+
+The rest of the candidates did not get significant mention on Twitter, with Ciro Gomes (PDT) in 4th place, Geraldo Alckmin (PSDB) with 5th place, Cabo Daciolo (Patriota) in 6th place, candidate Alvaro Dias (Podemos) in the 8th place place and Henrique Meirelles (MDB) with 9th place.
+
+The MDB candidate, despite holding the lantern of the ranking, became the news after investing 20 million of his own pocket for his campaign, is the highest value that someone has already invested in his own campaign. But even with the disclosure of the amount, the candidate appears in the week under the candidate Alvaro Dias, reversing the place between them in comparison to the first week. The same reversal of positions occurred with the PSDB and Patriot candidates, which shows the candidate Alckmin in front of the Daciolo.
+
+## Next Analysis in Sept 17 and Sept 19
 ---
 Henrique David de Medeiros - henriquemed101@gmail.com
 
